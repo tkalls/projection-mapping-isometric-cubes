@@ -1,6 +1,6 @@
 # Projection Mapping Isometric Cubes & Shapes in the Corner of My Room
 
-<p align="center"><img src="docs/img/in-the-room.gif" width="360" alt="The cube projected into the corner of my room, turning"></p>
+<p align="center"><img src="docs/img/hero-cube.gif" width="420" alt="The cube turning a quarter turn and locking back into the corner"></p>
 
 I pointed a small home projector at the corner of my bedroom, right where the ceiling meets two
 walls, and turned it into a cube. It sits in the corner, plays a different video on every face,
