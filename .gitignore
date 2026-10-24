@@ -3,3 +3,4 @@
 *.mp4
 *.mov
 __pycache__/
+docs/figures-src/
